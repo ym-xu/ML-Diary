@@ -1,4 +1,4 @@
 | General ML |
 | ------ |
 | Linear Regression |
-| [Logistic Regression](./README.md) |
+| [Logistic Regression](./Logistic%20Regression/Logistic%20Regression.ipynb) |
