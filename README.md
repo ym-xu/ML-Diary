@@ -1,4 +1,4 @@
 | General ML |
 | ------ |
 | Linear Regression |
-| Logic Regression |
+| Logistic Regression |
